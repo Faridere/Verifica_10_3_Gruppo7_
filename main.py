@@ -1,4 +1,4 @@
-import saluto_Carli_gruppo7, Saluto_Mazzolena
+import Saluto_Mazzolena
 
 def Saluto():
     print("Un saluto da Farinelli Luca")
